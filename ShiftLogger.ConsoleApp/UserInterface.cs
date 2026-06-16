@@ -1,5 +1,5 @@
 ﻿using Spectre.Console;
-namespace ShiftLogger.Console;
+namespace ShiftLogger.ConsoleApp;
 
 internal class UserInterface
 {

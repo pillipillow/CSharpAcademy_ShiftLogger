@@ -1,4 +1,4 @@
-﻿namespace ShiftLogger.Console;
+﻿namespace ShiftLogger.ConsoleApp;
 
 internal class Enums
 {
